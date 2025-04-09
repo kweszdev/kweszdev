@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Kaue (kwesz) Baptista
 
-<!--
-**kweszdev/kweszdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tenho 16 anos e atualmente curso **Desenvolvimento de Sistemas**.  
+💻 Tenho 1 ano de experiência como **interno na área de TI**, atuando com engenharia de dados, análise e automações utilizando **Python**.  
+📊 Busco me tornar um **profissional em Data Science e Machine Learning**, e estou sempre em busca de novos aprendizados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades
+
+- 💡 Lógica de programação apurada
+- 🐍 Python (principal linguagem)
+- 💻 Conhecimentos básicos em:
+  - PHP
+  - Java
+  - C#
+  - JavaScript
+- 🗃️ Familiaridade com **SQL**
+- 🧠 Noções de análise e engenharia de dados
+- ⚙️ Automação de processos
+
+---
+
+## 🚀 Projetos
+
+Aqui estão alguns projetos que estou desenvolvendo ou já concluí (em breve com links):
+
+- 📁 [Nome do Projeto 1] – pequena descrição
+- 📁 [Nome do Projeto 2] – pequena descrição
+- 📁 [Nome do Projeto 3] – pequena descrição
+
+---
+
+## 📚 Estudando agora
+
+Atualmente focado em:
+
+- 🧱 **POO** – Programação Orientada a Objetos
+- 🔄 Herança e Composição
+- 🗄️ Conceitos básicos de **Banco de Dados**
+- 🔌 Consumo e criação de **APIs**
+
+---
+
+## 🎯 Objetivos
+
+- Dominar ferramentas e conceitos de **Data Science**
+- Trabalhar com **Machine Learning**
+- Criar soluções automatizadas e inteligentes
+- Compartilhar conhecimento e crescer com a comunidade
+
+---
+
+## 📫 Contato
+
+- 📧 kaueoliveira190409@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)  
+- 🐦 @kweszdev  
+- 📺 [Twitch](https://twitch.tv/kweszdev)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Vamos construir algo incrível juntos!
