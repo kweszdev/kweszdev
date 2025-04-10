@@ -54,8 +54,8 @@ Atualmente focado em:
 ## 📫 Contato
 
 - 📧 kaueoliveira190409@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)  
-- 🐦 @kweszdev  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-link-aqui](https://www.linkedin.com/in/kweszdev/))  
+- 🐦 @kweszdev on instagram   
 - 📺 [Twitch](https://twitch.tv/kweszdev)
 
 ---
