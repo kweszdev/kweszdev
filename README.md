@@ -25,7 +25,7 @@
 
 Aqui estão alguns projetos que estou desenvolvendo ou já concluí (em breve com links):
 
-- 📁 [Nome do Projeto 1] – pequena descrição
+- 📁 [RESUMIDOR DE VIDEOS](https://github.com/kweszdev/resumidor_de_videos_ia) – resumidor de videos com inteligencia artificial
 - 📁 [Nome do Projeto 2] – pequena descrição
 - 📁 [Nome do Projeto 3] – pequena descrição
 
